@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Elena Marchenko.
 
 <!--
 **ElenMarch/ElenMarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:star: You can contact with me in telegram: @Elen_March
