@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:star: You can contact with me in telegram: @Elen_March
+:star: You can contact with me: 
+- :email: lena.v.marchenko@gmail.com
